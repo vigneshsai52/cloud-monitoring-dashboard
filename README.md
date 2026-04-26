@@ -1,3 +1,4 @@
+![Dashboard](dashboard.png)
 \# Cloud Monitoring Dashboard
 
 
